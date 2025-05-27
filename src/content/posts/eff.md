@@ -9,7 +9,6 @@ toc: true
 abbrlink: minimalist-efficiency
 ---
 
-![极简工具组合](image/minimalist_tools.svg)
 
 ## 摘要
 
